@@ -39,7 +39,7 @@ I'm actively engaged in enhancing my skills and knowledge. Here's a snapshot of 
 Let's connect and collaborate! You can find me on:
 
 - **GitHub:** https://github.com/s1mpleog
-- **LinkedIn:** https://t.me/SimpleTheOG
+- **Telegram:** https://t.me/SimpleTheOG
 
 ## Let's Code Together!
 
