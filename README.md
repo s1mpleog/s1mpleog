@@ -12,8 +12,8 @@ A frontend web developer on an exciting journey of learning and exploration. Cur
 
 - **Frontend Technologies:**
   - HTML
-  - CSS
-  - JavaScript (React, Next JS, Tailwind CSS)
+  - CSS (Tailwind CSS)
+  - JavaScript (React and Next JS)
 
 - **Programming Languages:**
   - C (currently learning)
