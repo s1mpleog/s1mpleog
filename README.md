@@ -1,6 +1,6 @@
-# S1mpleOG's Developer Portfolio
+# Hello! 👋 I'm S1mpleOG
 
-Hello! 👋 I'm S1mpleOG, a frontend web developer on an exciting journey of learning and exploration. Currently, I'm delving into custom ROM development and honing my skills in the C language.
+A frontend web developer on an exciting journey of learning and exploration. Currently, I'm delving into custom ROM development and honing my skills in the C language.
 
 ## About Me
 
