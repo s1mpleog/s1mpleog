@@ -18,36 +18,6 @@
 
 ## ⚡ System Attributes
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">⚙️</td>
-<td align="left"><strong>Field Focus</strong><br/>Manual Memory Management & Pointers</td>
-</tr>
-<tr>
-<td align="center">🐧</td>
-<td align="left"><strong>Kernel / OS</strong><br/>Arch Linux (Custom Config · Hyprland)</td>
-</tr>
-<tr>
-<td align="center">⌨️</td>
-<td align="left"><strong>Dev Environment</strong><br/>Neovim (Gruvbox · Hard / Lazy)</td>
-</tr>
-<tr>
-<td align="center">🧩</td>
-<td align="left"><strong>Main Stack</strong><br/>Rust (Axum) + C++23</td>
-</tr>
-<tr>
-<td align="center">🧠</td>
-<td align="left"><strong>Mindset</strong><br/>Frameworks are tools — understanding is power</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary><strong>📟 Raw system view</strong></summary>
-
 ```txt
 > field_focus   :: Manual Memory Management & Pointers
 > sys_kernel    :: Arch Linux (Custom Config / Hyprland)
@@ -55,8 +25,6 @@
 > main_stack    :: Rust (Axum) + C++23
 > mindset      :: Frameworks are tools — understanding is power
 ```
-
-</details>
 
 ---
 
