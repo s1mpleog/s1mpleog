@@ -22,17 +22,7 @@
 > field_focus   :: Manual Memory Management & Pointers
 > sys_kernel    :: Arch Linux (Custom Config / Hyprland)
 > dev_env       :: Neovim (Gruvbox • Hard / Lazy)
-> main_stack    :: Rust (Axum) + C++23
-> mindset      :: Frameworks are tools — understanding is power
-```
-
----
-
-```txt
-> field_focus   :: Manual Memory Management & Pointers
-> sys_kernel    :: Arch Linux (Custom Config / Hyprland)
-> dev_env       :: Neovim (Gruvbox • Hard / Lazy)
-> main_stack    :: Rust (Axum) + C++23
+> main_stack    :: Rust (Axum) + C++23 + TypeScript + Java (Spring Boot)
 > mindset      :: Frameworks are tools — understanding is power
 ```
 
