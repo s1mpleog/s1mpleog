@@ -18,7 +18,7 @@
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top;">
+    <td width="60%" style="border: none; vertical-align: top;">
       <h3>⚡ The Philosophy</h3>
       <p>I build backends that are close to the metal. If it abstracts too much, I rewrite it.</p>
       <ul>
@@ -27,20 +27,18 @@
         <li>🛠 <b>Editor:</b> Neovim (Gruvbox Dark hard).</li>
         <li>🦀 <b>Stack:</b> Rust (Axum) & C++ for raw performance.</li>
       </ul>
-    </td>
-    <td width="50%" style="border: none; vertical-align: top;">
+      <br/>
       <h3>🚀 The Arsenal</h3>
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Axum-EF3958?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <br/>
       <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+
+    <td width="40%" style="border: none; vertical-align: center; text-align: center;">
+      <img src="https://media.giphy.com/media/LHTl7c6V76gM0/giphy.gif" alt="coding anime" style="width: 100%; border-radius: 10px;" />
     </td>
   </tr>
 </table>
