@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/Axum-EF3958?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </td>
-<td width="40%" style="border: none; vertical-align: center; text-align: center;">
-<img src="./piza-ninjas-pizzaninjas.gif" alt="coding anime" style="width: 100%; border-radius: 10px;" />
+<td width="50%" style="border: none; vertical-align: center; text-align: center;">
+<img src="./piza-ninjas-pizzaninjas.gif" alt="coding anime" width="100%" style="width: 100%; border-radius: 10px;" />
 </td>
 </tr>
 </table>
