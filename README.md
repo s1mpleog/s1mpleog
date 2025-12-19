@@ -10,7 +10,7 @@
 
 <!-- Animated skill icons -->
 
-<img src="https://skillicons.dev/icons?i=arch,linux,c,cpp,rust,ts,java,spring,neovim,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arch,linux,c,cpp,rust,ts,java,spring,neovim,tokio,github&theme=dark" />
 
 </div>
 
