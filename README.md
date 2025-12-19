@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </td>
 <td width="40%" style="border: none; vertical-align: center; text-align: center;">
-<img src="[https://media.tenor.com/bCpwYlJ_IqEAAAAC/serial-experiments-lain-lain.gif](https://media.tenor.com/fq-1gwJhSf8AAAAM/baby-koding-baby.gif)" alt="coding anime" style="width: 100%; border-radius: 10px;" />
+<img src="https://media.tenor.com/bCpwYlJ_IqEAAAAC/serial-experiments-lain-lain.gif](https://media.tenor.com/fq-1gwJhSf8AAAAM/baby-koding-baby.gif" alt="coding anime" style="width: 100%; border-radius: 10px;" />
 </td>
 </tr>
 </table>
