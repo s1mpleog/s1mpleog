@@ -2,7 +2,7 @@
 
 <!-- Typing Header -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=9BE9A8&center=true&vCenter=true&width=700&lines=Memory+Management+Addict;Low-level+Backend+Engineer;I+read+Assembly+so+I+don%E2%80%99t+guess+the+CPU" />
+<img src="https://readme-typing-svg.demolab.com?font=consolas&weight=600&size=28&pause=1000&color=9BE9A8&center=true&vCenter=true&width=700&lines=Memory+Management+Addict;Low-level+Backend+Engineer;I+read+Assembly+so+I+don%E2%80%99t+guess+the+CPU" />
 
 <p><em>"I read Assembly so I don't have to guess what the CPU is doing."</em></p>
 <p>Deep diving into Linux internals, memory allocation, kernel space.</p>
@@ -10,7 +10,7 @@
 
 <!-- Animated skill icons -->
 
-<img src="https://skillicons.dev/icons?i=arch,linux,c,cpp,rust,neovim,assembly,axum,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arch,linux,c,cpp,rust,ts,java,spring,neovim,assembly,axum,github&theme=dark" />
 
 </div>
 
