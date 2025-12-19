@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <img src="./kitten-keybo.gif" align="right" width="40%" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" alt="coding anime" />
+  <img src="./rust.gif" align="right" width="40%" style="border-radius: 10px; margin-left: 20px; margin-bottom: 10px;" alt="coding anime" />
 
   <h3>⚡ The Philosophy</h3>
   <p>I build backends that are close to the metal. If it abstracts too much, I rewrite it.</p>
