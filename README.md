@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </td>
 <td width="40%" style="border: none; vertical-align: center; text-align: center;">
-<img src="https://media.giphy.com/media/LHTl7c6V76gM0/giphy.gif" alt="coding anime" style="width: 100%; border-radius: 10px;" />
+<img src="https://media.tenor.com/bCpwYlJ_IqEAAAAC/serial-experiments-lain-lain.gif" alt="coding anime" style="width: 100%; border-radius: 10px;" />
 </td>
 </tr>
 </table>
