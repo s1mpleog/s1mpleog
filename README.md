@@ -101,8 +101,6 @@ int *alloc = malloc(sizeof(int)*4);
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1mpleog&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
-> ⚠️ If you deploy this to GitHub, these cards will render live — great for showing off languages & activity.
-
 ---
 
 # How to reach me
