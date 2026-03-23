@@ -106,20 +106,7 @@ int *alloc = malloc(sizeof(int)*4);
 # How to reach me
 
 * GitHub: `https://github.com/s1mpleog`
-* Twitter / X: *(optional — add if you want)*
-* Email: `hi at s1mple dot dev` *(replace with your email if you want to show it)*
-
----
-
-# Want this style but different tone?
-
-I can produce variations:
-
-* Minimal / resume-style
-* Hacker-y terminal aesthetic
-* Playful / gaming aesthetic
-
----
+* Twitter / X: *s1mpleog*
 
 <p align="center">Made with ⚙️ and a tiny obsession for how bits actually move.</p>
 
