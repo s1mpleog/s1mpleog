@@ -4,52 +4,100 @@
 
 <br/>
 
-[![C++23](https://img.shields.io/badge/C%2B%2B23-161b22?style=flat-square&logo=c%2B%2B&logoColor=c9d1d9)](https://github.com/graven471)
-[![Rust](https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=c9d1d9)](https://github.com/graven471)
-[![x86-64](https://img.shields.io/badge/x86--64-161b22?style=flat-square&logo=assemblyscript&logoColor=c9d1d9)](https://github.com/graven471)
-[![Vulkan](https://img.shields.io/badge/Vulkan-161b22?style=flat-square&logo=vulkan&logoColor=c9d1d9)](https://github.com/graven471)
-[![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9)](https://github.com/graven471)
+`C++23` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `x86-64 ASM` &nbsp;·&nbsp; `Vulkan` &nbsp;·&nbsp; `Linux`
 
 </div>
 
 ---
 
-### selected engineering
+### SELECTED REPOSITORIES
 
-* **[`wind`](https://github.com/graven471/wind)** &nbsp;`c++23` `vulkan` `spir-v`  
-  Vulkan real-time renderer and modular 3D engine core engineered from scratch. Features stateless command recording, explicit memory barrier sequencing, dynamic descriptor management, and custom buffer sub-allocators.
+<details open>
+<summary><b><code>wind</code></b> — Vulkan Real-Time Renderer & Graphics Engine <code>C++23</code> <code>Vulkan</code></summary>
+<br>
 
-* **[`peel`](https://github.com/graven471/peel)** &nbsp;`c++23` `x86-64` `win32`  
-  Zero-dependency binary visualizer and x86-64 machine-code disassembler. Directly decodes prefix, opcode, ModR/M, and SIB byte streams against Intel architecture manuals without external disassembly engines.
+* **Architecture:** Modular 3D rendering pipeline engineered entirely from scratch.
+* **Synchronization:** Explicit timeline semaphores, automated layout transitions, and fine-grained barrier graphs.
+* **Memory & Recording:** Stateless command buffer generation with custom GPU buffer/image sub-allocators.
+* **Link:** [`github.com/graven471/wind`](https://github.com/graven471/wind)
 
-* **[`clmm-math`](https://github.com/graven471/clmm-math)** &nbsp;`rust` `solana` `fixed-point`  
-  Deterministic, high-precision mathematical primitives for concentrated liquidity market makers (CLMM) on Solana. Implements exact Q64.64 fixed-point arithmetic, tick-to-sqrt-price transformations, and overflow-checked liquidity math.
+</details>
 
-* **[`wind-cooker`](https://github.com/graven471/wind-cooker)** &nbsp;`rust` `tooling` `spir-v`  
-  Offline asset conditioning pipeline and packaging engine for Wind. Compiles high-level shader code to validated SPIR-V bytecode, bakes mesh geometry into memory-mappable structures, and produces packed runtime archives.
+<details open>
+<summary><b><code>peel</code></b> — x86-64 Machine-Code Disassembler & PE Inspector <code>C++23</code> <code>x86-64</code></summary>
+<br>
+
+* **Binary Analysis:** Standalone zero-dependency visualizer and instruction-stream decoder.
+* **Manual Compliance:** Decodes prefixes, opcodes, ModR/M, and SIB addressing directly from raw bytes using Intel specifications.
+* **Format Inspection:** Complete traversal of Portable Executable (PE32+) headers, section headers, and imports.
+* **Link:** [`github.com/graven471/peel`](https://github.com/graven471/peel)
+
+</details>
+
+<details>
+<summary><b><code>clmm-math</code></b> — Deterministic Fixed-Point Math Engine <code>Rust</code> <code>Solana</code></summary>
+<br>
+
+* **Numerical Precision:** High-precision math primitives tailored for concentrated liquidity AMM protocols.
+* **Arithmetic:** Deterministic Q64.64 fixed-point operations with guaranteed zero-overflow arithmetic under strict compute budgets.
+* **Tick Math:** Tick-to-square-root-price algorithms and precise token delta conversions.
+* **Link:** [`github.com/graven471/clmm-math`](https://github.com/graven471/clmm-math)
+
+</details>
+
+<details>
+<summary><b><code>wind-cooker</code></b> — Offline Asset Pipeline & Compiler <code>Rust</code> <code>Tooling</code></summary>
+<br>
+
+* **Shader Processing:** Direct compilation, validation, and reflection of shader stages into SPIR-V binaries.
+* **Data Packing:** Converts raw geometry and textures into memory-mappable, zero-copy runtime file formats.
+* **Link:** [`github.com/graven471/wind-cooker`](https://github.com/graven471/wind-cooker)
+
+</details>
 
 ---
 
-### engineering domains & primitives
+### TECHNICAL SCOPE
 
-| domain | focus & architectural primitives |
-| :--- | :--- |
-| **systems & runtime** | Custom memory models (slab / arena / pool allocators) · Explicit cache line padding · SIMD vectorization (AVX2) · x86-64 instruction decoding · PE & ELF binary parsers · ABI & calling convention analysis |
-| **graphics & engines** | Explicit Vulkan synchronization & timeline semaphores · Custom image barrier sequencing · Shader compilation toolchains (GLSL / HLSL to SPIR-V) · Stateless render graph designs · Data-oriented ECS architecture |
-| **decentralized protocols** | Deterministic fixed-point numerical schemes · Order book matching mechanics · Constant product & CLMM algorithms · Zero-copy byte deserialization · High-throughput on-chain state transitions |
+<details open>
+<summary><b><code>[+]</code> Systems & Runtime Internals</b></summary>
+<br>
+
+* **Memory Models:** Custom slab, arena, and pool allocators with explicit alignment and cache line padding.
+* **Binary Formats:** Direct parsing of PE32+ and ELF executables, symbol tables, and relocation entries.
+* **Architecture:** x86-64 calling conventions, ABI specifications, and hardware register constraints.
+
+</details>
+
+<details>
+<summary><b><code>[+]</code> Graphics & Hardware Pipelines</b></summary>
+<br>
+
+* **Vulkan Primitives:** Manual memory allocation, dynamic descriptor sets, and timeline semaphore execution.
+* **Shader Pipelines:** Multi-stage GLSL/HLSL compilation to SPIR-V, descriptor reflection, and specialization constants.
+* **Engine Core:** Data-oriented scene graphs and stateless command recording patterns.
+
+</details>
+
+<details>
+<summary><b><code>[+]</code> Protocol Mechanics & Math</b></summary>
+<br>
+
+* **Fixed-Point Arithmetic:** Exact integer math, discrete tick indexing, and invariant curve formulas.
+* **State Machines:** Zero-copy serialization, high-throughput on-chain safety, and state verification.
+
+</details>
 
 ---
 
-### environment & workflow
+### WORKSPACE & TOOLCHAINS
 
-```text
-host        :: linux (arch / gentoo)
-toolchains  :: clang++ / gcc · rustc / cargo · nasm · vulkan-sdk
-environment :: neovim · git · tmux
-debuggers   :: renderdoc · gdb · valgrind
-```
+* **Toolchains:** `clang++` · `gcc` · `rustc` · `nasm` · `vulkan-sdk`
+* **Environment:** `linux` (arch / gentoo) · `neovim` · `tmux` · `git`
+* **Profiling & Trace:** `renderdoc` · `gdb` · `valgrind`
+
+---
 
 <p align="center">
-<code>build</code>  ·  <code>break</code>  ·  <code>inspect</code>  ·  <code>understand</code>  ·  <code>repeat</code>
+  <code>build</code> &nbsp;·&nbsp; <code>break</code> &nbsp;·&nbsp; <code>inspect</code> &nbsp;·&nbsp; <code>understand</code> &nbsp;·&nbsp; <code>repeat</code>
 </p>
-
