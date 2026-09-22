@@ -1,10 +1,8 @@
 <div align="center">
 
-# graven471
-
-`systems · graphics · low-level`
-
-*understand the machine. then build on top of it.*
+<div align="center">
+  <img src="./graven471_banner.svg" width="100%" />
+</div>
 
 ![C++23](https://img.shields.io/badge/C%2B%2B23-0d1117?style=flat-square&logo=cplusplus&logoColor=659ad2)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584)
