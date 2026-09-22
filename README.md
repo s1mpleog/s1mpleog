@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img src="./graven471_banner.svg" width="100%" />
-</div>
+<img src="./graven471_banner.svg" width="100%" />
 
 ![C++23](https://img.shields.io/badge/C%2B%2B23-0d1117?style=flat-square&logo=cplusplus&logoColor=659ad2)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584)
@@ -26,18 +24,23 @@
 ## currently in
 
 ```text
-systems/                        graphics/
-├── allocators                  ├── Vulkan
-├── memory models               ├── GPU architecture
-├── ABI & calling conventions   ├── rendering techniques
-├── compiler internals          ├── SPIR-V & shaders
-└── operating systems           └── asset pipelines
+systems/
+├── allocators
+├── memory models
+├── ABI & calling conventions
+├── compiler internals
+└── operating systems
+
+graphics/
+├── Vulkan
+├── GPU architecture
+├── rendering techniques
+├── SPIR-V & shaders
+└── asset pipelines
 ```
 
 ---
 
-<div align="center">
-
-`build · break · inspect · understand · repeat`
+<div align="center">build · break · inspect · understand · repeat
 
 </div>
