@@ -4,7 +4,11 @@
 
 <br/>
 
-`C++23` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `x86-64 ASM` &nbsp;·&nbsp; `Vulkan` &nbsp;·&nbsp; `Linux`
+[![C++23](https://img.shields.io/badge/C%2B%2B23-161b22?style=flat-square&logo=c%2B%2B&logoColor=c9d1d9)](https://github.com/graven471)
+[![Rust](https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=c9d1d9)](https://github.com/graven471)
+[![x86-64](https://img.shields.io/badge/x86--64-161b22?style=flat-square&logo=assemblyscript&logoColor=c9d1d9)](https://github.com/graven471)
+[![Vulkan](https://img.shields.io/badge/Vulkan-161b22?style=flat-square&logo=vulkan&logoColor=c9d1d9)](https://github.com/graven471)
+[![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9)](https://github.com/graven471)
 
 </div>
 
@@ -101,8 +105,7 @@ environment :: neovim · git · tmux
 debuggers   :: renderdoc · gdb · valgrind
 ```
 
----
-
 <p align="center">
-  <code>build</code> &nbsp;·&nbsp; <code>break</code> &nbsp;·&nbsp; <code>inspect</code> &nbsp;·&nbsp; <code>understand</code> &nbsp;·&nbsp; <code>repeat</code>
+<code>build</code>  ·  <code>break</code>  ·  <code>inspect</code>  ·  <code>understand</code>  ·  <code>repeat</code>
 </p>
+
